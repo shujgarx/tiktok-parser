@@ -1,4 +1,4 @@
-# 🎯 TikTok Video Info (Async) — `testparcer.py`
+# 🎯 TikTok Video Info (Async) — `tiktok_pars.py`
 
 Небольшой асинхронный скрипт на Python для получения полной информации о ролике TikTok через библиотеку **[`TikTokApi`](https://pypi.org/project/TikTokApi/)** и сохранения результата в `JSON`.
 
